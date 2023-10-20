@@ -1,6 +1,10 @@
 # Flip_robo_internship
+
 Medical Cost Personal Insurance Project
+
+
 Project Description
+
 Health insurance is a type of insurance that covers medical expenses that arise due to an illness. These expenses could be related to hospitalisation costs, cost of medicines or doctor consultation fees. The main purpose of medical insurance is to receive the best medical care without any strain on your finances. Health insurance plans offer protection against high medical costs. It covers hospitalization expenses, day care procedures, domiciliary expenses, and ambulance charges, besides many others. Based on certain input features such as age , bmi,,no of dependents ,smoker ,region  medical insurance is calculated .
 Columns                                            
 •	age: age of primary beneficiary
